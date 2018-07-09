@@ -4,4 +4,4 @@ Creating a new branch is quick and simple.
 
 git is a free software.
 
-testing --no-ff.
+git  stash command line.
